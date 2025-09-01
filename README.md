@@ -10,6 +10,6 @@ see fit to do so.
 
 ##Demo
 
-![Demo Screenshot](screenshot.png)
+![Demo Screenshot](Demo-image.png)
 
 ##
